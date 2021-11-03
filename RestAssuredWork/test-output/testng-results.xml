@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-11-03T09:49:06 IST" name="Default suite" finished-at="2021-11-03T09:49:10 IST" duration-ms="3447">
+    <groups>
+    </groups>
+    <test started-at="2021-11-03T09:49:06 IST" name="Default test" finished-at="2021-11-03T09:49:10 IST" duration-ms="3447">
+      <class name="A08">
+        <test-method signature="req(java.lang.String,java.lang.String,int,java.lang.String)[pri:0, instance:A08@306f16f3]" started-at="2021-11-03T09:49:06 IST" name="req" data-provider="DataforTest" finished-at="2021-11-03T09:49:09 IST" duration-ms="2845" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Ayushi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Jambhulkar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[8970]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ayushijambhulkar@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- req -->
+        <test-method signature="req(java.lang.String,java.lang.String,int,java.lang.String)[pri:0, instance:A08@306f16f3]" started-at="2021-11-03T09:49:09 IST" name="req" data-provider="DataforTest" finished-at="2021-11-03T09:49:10 IST" duration-ms="547" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Kriti]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Joshi]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[6789]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[kritijoshi@gmail.com]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- req -->
+      </class> <!-- A08 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
